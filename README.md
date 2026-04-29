@@ -62,6 +62,15 @@
 
 <div align="center">
   <a href="https://github.com/Saronha">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saronha&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saronha&layout=compact&theme=calm"/>
+    <img
+        align="left" 
+        height="180em"
+        style="padding-right: 10px;" 
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saronha&show_icons=true&theme=calm&include_all_commits=true&count_private=true"
+    />
+    <img
+        align="left" 
+        height="180em"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saronha&layout=compact&theme=calm"
+    />
 </div>
