@@ -60,20 +60,8 @@
 
 ### 📊 Statistics 
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Saronha&show_icons=true&theme=tokyonight&include_all_commits=true" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=saronha&theme=tokyonight&layout=compact&custom_title=Most Used Languages&langs_count=9" 
-  />
-
-</p>
+<div align="center">
+  <a href="https://github.com/Saronha">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saronha&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saronha&layout=compact&theme=calm"/>
+</div>
