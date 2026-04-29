@@ -1,6 +1,6 @@
 ## (❁´◡`❁) Saronha
 
-**`Information Systems student`**
+Hiii i'm an Information Systems student at Instituto Politécnico de Santarém!
 
 ### 📖 Currently learning:
 
