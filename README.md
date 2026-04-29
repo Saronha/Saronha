@@ -64,13 +64,13 @@
   <a href="https://github.com/Saronha">
     <img
         align="left" 
-        height="200"
+        height="100"
         style="padding-right: 10px;" 
         src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saronha&show_icons=true&theme=calm&include_all_commits=true&count_private=true"
     />
     <img
         align="left" 
-        height="200"
+        height="100"
         src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saronha&layout=compact&theme=calm"
     />
 </div>
